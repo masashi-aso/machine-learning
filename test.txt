@@ -1,0 +1,8 @@
+testtest
+
+
+add     apply changes to index
+commit     remember the status of index
+commit -m  add comment
+pull   get the contents
+
